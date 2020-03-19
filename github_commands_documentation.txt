@@ -1,3 +1,1 @@
-This is my first commmit
-
-this is my second commit
+Github Commands Document
