@@ -1,1 +1,14 @@
-Github Commands
+Github Commands Documentation
+
+1. Use the below command to check the entered information -
+
+LENOVO@DESKTOP-KF7F45G MINGW64 ~/Downloads/GitHub/blr_cohort_33 (payal_blr_cohort_33)
+$ git config --global --list  
+user.email=payalchavda6005@gmail.com
+user.name=payal6005.
+
+2.
+
+$ git archive --output=./example_repo_archive.tar --format=tar HEAD
+
+
