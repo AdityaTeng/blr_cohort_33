@@ -7,7 +7,7 @@ $ git config --global --list
 user.email=payalchavda6005@gmail.com
 user.name=payal6005.
 
-2.
+2.for archive data
 
 $ git archive --output=./example_repo_archive.tar --format=tar HEAD
 
